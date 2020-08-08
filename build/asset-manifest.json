@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/helpme/static/css/main.dc39e95a.chunk.css",
+    "main.js": "/helpme/static/js/main.33330668.chunk.js",
+    "main.js.map": "/helpme/static/js/main.33330668.chunk.js.map",
+    "runtime-main.js": "/helpme/static/js/runtime-main.cc62f2fe.js",
+    "runtime-main.js.map": "/helpme/static/js/runtime-main.cc62f2fe.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/helpme/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.42337814.chunk.js": "/helpme/static/js/2.42337814.chunk.js",
+    "static/js/2.42337814.chunk.js.map": "/helpme/static/js/2.42337814.chunk.js.map",
+    "index.html": "/helpme/index.html",
+    "precache-manifest.f7d0d94ebd50a4a0c133db834147b052.js": "/helpme/precache-manifest.f7d0d94ebd50a4a0c133db834147b052.js",
+    "service-worker.js": "/helpme/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/helpme/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.dc39e95a.chunk.css.map": "/helpme/static/css/main.dc39e95a.chunk.css.map",
+    "static/js/2.42337814.chunk.js.LICENSE.txt": "/helpme/static/js/2.42337814.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc62f2fe.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.42337814.chunk.js",
+    "static/css/main.dc39e95a.chunk.css",
+    "static/js/main.33330668.chunk.js"
+  ]
+}
