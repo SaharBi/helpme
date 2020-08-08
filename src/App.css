@@ -1,0 +1,38 @@
+.app{
+    text-align: center;
+    align-items: center;
+}
+
+.errLbl{
+color: red;
+}
+
+#helpBtn{
+    background-color: red;
+    color: white;
+    padding:50px;
+    border-radius: 100%;
+}
+
+.nav{
+    text-align: center;
+    align-items: center;
+}
+
+#menuBtn{
+    background-color: black;
+    color:white;
+}
+
+.infoBox{
+    background-color: lightgray;
+    border-radius: 30%;
+    width:50%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+
+.space {
+    margin: 50px;
+}
